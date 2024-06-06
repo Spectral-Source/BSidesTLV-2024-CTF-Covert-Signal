@@ -38,5 +38,5 @@ BSidesTLV2024{RF_invest1gate-S0rcery}
 
 ## Contact:
 
-For any queries, contact: `addmail`
+send flag to, contact: `addmail`
 
