@@ -38,5 +38,5 @@ BSidesTLV2024{RF_invest1gate-S0rcery}
 
 ## Contact:
 
-send flag to, contact: `addmail`
+send flag to, contact: `4z9ron@gmail.com`
 
