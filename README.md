@@ -11,7 +11,7 @@ Can you decode her message and uncover the hidden flag?
 
 ## Challenge Description:
 
-A flag encoded using a protocol specifically used in RF and amateur radio communication. Decode the message sent by the master spy, Olivia, and uncover the hidden flag. Pay attention to the subtle clues related to her name, the time 04:00, and the number 125. (Only an audio file and maybe the story require download)
+A flag encoded using a protocol specifically used in RF and amateur radio communication. Decode the message sent by the master spy, Olivia, and uncover the hidden flag. Pay attention to the subtle clues related to her name, the time 04:00, and the number 125. 
 
 ## Solve Path:
 
