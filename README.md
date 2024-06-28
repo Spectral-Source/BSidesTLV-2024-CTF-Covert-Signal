@@ -8,13 +8,6 @@ Every morning at exactly 04:00, Olivia would send out her secrets using a specia
 
 Can you decode her message and uncover the hidden flag?
 
-## High Hint:
-
-"Olivia, 04:00, and 125 hold the key."
-
-## Hint:
-
-Take a look at the name.
 
 ## Challenge Description:
 
